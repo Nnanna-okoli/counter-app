@@ -16,7 +16,7 @@ function incrementCount() {
       <button onClick={decremennCount}>-</button>
       <span>{count}</span>
       <button onClick={incrementCount}>+</button>
-      <p>this app demonstes a counter hooked up by using useStates components in react</p>
+      <p>this app demonstes a counter hooked up by using useStates components in react. hello</p>
     </>
   )
 }
